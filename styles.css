@@ -17,6 +17,7 @@ main{
     padding: 15px 20px;
     padding-right: 60px;
     width: 250px;
+    height: 450px;
     font-family: Figtree;
     border-color: hsl(0, 0%, 7%);
     border-width: 1px;
@@ -37,12 +38,12 @@ main{
 .date{
     font-size: 12px;
     margin: 2px 0px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 .title{
     font-size: 18px;
     font-weight: 700;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .title:hover{
     cursor: pointer;
@@ -53,7 +54,7 @@ main{
     font-size: 14px;
     font-weight: 500;
     width: 300px;
-    line-height: 20px;
+    line-height: 22px;
     margin-top: -10px;
 }
 .avatar{
@@ -64,7 +65,7 @@ main{
 .profile{
     display: flex;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 30px;
     margin-bottom: 10px;
 }
 .profile span{
