@@ -21,8 +21,7 @@ Pretty simple html and css blog-preview page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]((https://blog-preview-three-murex.vercel.app/))
+- Solution URL: [Add solution URL here](https://blog-preview-three-murex.vercel.app/)
 
 ## My process
 *First I started with the html and making sure that all the elements are in order.
