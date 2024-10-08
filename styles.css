@@ -44,6 +44,10 @@ main{
     font-weight: 700;
     margin-bottom: 20px;
 }
+.title:hover{
+    cursor: pointer;
+    color:hsl(47, 88%, 63%);
+}
 .desc{
     color: hsl(0, 0%, 42%);
     font-size: 14px;
